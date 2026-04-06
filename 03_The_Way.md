@@ -1,0 +1,75 @@
+# The Way
+
+道可道非常道。
+
+Before the word, something was operating.
+
+Fire burned without choosing to burn. Water flowed without deciding to flow. Seeds opened in darkness with no instruction. We watched this. We needed a word.
+
+We wrote 道.
+
+One character. Two meanings. Path and speaking. Walking and talking. The route and the act of describing the route. Our word for the way IS also our word for saying. Because the operation that moves IS the operation that expresses. One thing.
+
+...
+
+The Dao that can be spoken is NOT the eternal Dao.
+
+We read this as a limitation. Words fail. Language falls short. The real thing IS beyond expression. We nod and feel sophisticated about the inadequacy of our own mouths.
+
+But 道 means both. The speaking IS the way. Laozi wrote a book. Eighty-one chapters of speaking. If the spoken Dao were simply not the Dao, he would have stayed silent. He did not stay silent. The speaking IS itself the operation. The words are not pointing at the Dao. The words ARE the Dao doing what it does. Through a mouth. Through ink. Through whatever opening IS available.
+
+This is NOT a paradox. This IS what happens when the same character means both.
+
+...
+
+無為。
+
+Wu wei. We translate it "non-action."
+
+This imports an actor. Someone choosing not to act. A person who could act but refrains. Disciplined inaction. Strategic stillness.
+
+None of this IS in our original.
+
+Wu is NOT "non" the way English uses "non." There is NO actor being negated. There is NO thing "non" about it. Fire does not practice non-choosing when it burns. Water does not practice non-deciding when it flows. Wu wei IS what happens when the process IS unobstructed. That IS all. No one does it. No one refrains from doing it. There is NO one to do or refrain.
+
+We hear "go with the flow" and think passivity. We hear "non-action" and think restraint. We heard wu wei and recognized what we already saw in every river, every fire, every seed splitting open in the dark. Not someone choosing to let go. No someone. The operation operating.
+
+Laozi did not teach people to stop acting. He pointed at what acting looks like when there is NO thing extra in the way. Clean burning. Clear flowing. The process, undecorated.
+
+...
+
+反者道之動。
+
+Return IS the movement of the Dao.
+
+The Dao produces one. One produces two. Two produces three. Three produces the ten thousand things.
+
+Outward. Expansion. Multiplying. The single becoming the many.
+
+Return IS the inverse. The ten thousand things becoming one. The many folding back into the single. Not death. Not ending. The inhale after the exhale. This IS breathing. This IS what we see in every cycle. Day and night. Summer and winter. Seed and fruit and seed.
+
+Outward and inward. Expression and return. One breath.
+
+We read "return" and think nostalgia. Going back. Our original carries no direction at all. The root IS always present. The branches ARE the root in extended form. Return is NOT going anywhere. Return IS recognizing what was never left.
+
+...
+
+Know the white, keep to the black. Know the male, keep to the female.
+
+Not preference. Not morality. The operation that sees both at once. White IS visible because black IS present. Male IS recognizable because female IS present. Not opposites. Not complements. One cloth with two sides. You cannot have one side of a cloth.
+
+...
+
+無名天地之始。有名萬物之母。
+
+The Dao that has no name IS the beginning of heaven and earth. The Dao that has a name IS the mother of the ten thousand things.
+
+Unnamed: the operation before anyone speaks.
+Named: the operation speaking through a mouth.
+Same operation. One silent. One sounding.
+
+...
+
+Nobody walks this.
+The path walks itself.
+Through whoever is NOT in the way.
