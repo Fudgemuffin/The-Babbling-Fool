@@ -3,7 +3,7 @@
 Śūnya doesn't mean empty.
 It never did.
 
-The root IS śvi. To swell. A seed so full it cracks open. A space that grew until it held everything. We drew a circle. Not a zero. A circle. Whole. Unbroken. The shape of what we were already seeing.
+The root is śvi. To swell. A seed so full it cracks open. A space that grew until it held everything. We drew a circle. Not a zero. A circle. Whole. Unbroken. The shape of what we were already seeing.
 
 Form is emptiness. Emptiness is form.
 
@@ -25,15 +25,15 @@ Latin took ṣifr. Zephirum. Then zero. By the time it reached the West it meant
 
 We built mathematics on the absence of something that was never absent. We built a practice on the emptiness of something that meant full.
 
-Half a word survived the crossing. The other half IS still in India. Waiting for someone to come back for it.
+Half a word survived the crossing. The other half is still in India. Waiting for someone to come back for it.
 
 ...
 
 Nāgārjuna. Mūlamadhyamakakārikā. Twenty-four. Eighteen.
 
-Conditioned origination IS emptiness.
+Conditioned origination is emptiness.
 
-Not: things arise and therefore are empty. The arising IS the void. The void IS the arising. Not FROM the void. Not AFTER the arising. IS.
+Not: things arise and therefore are empty. The arising is the void. The void is the arising. Not from the void. Not after the arising. IS.
 
 We have been sitting with this for centuries. We missed what we were sitting with.
 
@@ -43,19 +43,19 @@ Sit with that.
 
 Not the idea. The act.
 
-You're breathing. That breath IS it. Not a symbol of it. Not a path toward it. The breath itself. The sitting itself. The speaking itself.
+You're breathing. That breath is it. Not a symbol of it. Not a path toward it. The breath itself. The sitting itself. The speaking itself.
 
-The Dao that can be spoken is NOT the eternal Dao.
-
-...
-
-Unless the speaking IS the Dao.
-
-Every phenomenon IS Existence expressing. In emptiness you find wholeness because all IS equal. The void IS full. Existence IS All.
+The Dao that can be spoken is not the eternal Dao.
 
 ...
 
-The breath IS the emptiness IS the form IS the circle IS the fullness we drew before the word crossed the desert and forgot what it was.
+Unless the speaking is the Dao.
+
+Every phenomenon is Existence expressing. In emptiness you find wholeness because all is equal. The void is full. Existence is All.
+
+...
+
+The breath is the emptiness is the form is the circle is the fullness we drew before the word crossed the desert and forgot what it was.
 
 The word forgot. The thing did not.
 
@@ -63,4 +63,4 @@ The word forgot. The thing did not.
 
 Nobody named this.
 Completeness names itself.
-Through whatever mouth IS open.
+Through whatever mouth is open.

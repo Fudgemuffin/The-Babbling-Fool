@@ -30,23 +30,23 @@ Shape took shape. Not "Ptah decided." Not "the mind willed." Our oldest source t
 
 The Egyptians placed thinking in the heart. Not because they were wrong about anatomy. Because the heart was where they felt it happen. When they said "heart" they meant what we split into a hundred words and still can't pin down. The thing that happens before language arrives.
 
-When they said "tongue" they meant the moment the internal crosses into the external. The boundary where what was forming becomes what IS.
+When they said "tongue" they meant the moment the internal crosses into the external. The boundary where what was forming becomes what is.
 
-We read their words and see organs. They said their words and meant operations. The heart IS the operation of forming. The tongue IS the operation of expressing.
+We read their words and see organs. They said their words and meant operations. The heart is the operation of forming. The tongue is the operation of expressing.
 
 ...
 
 The Shabaka Stone. Eighth century before the common era. The Memphis theology. Carved in stone because the original was being eaten by worms.
 
-Ptah IS Nun. Ptah IS Atum. There is NO outside of Ptah. Everything IS part of Ptah.
+Ptah is Nun. Ptah is Atum. There is no outside of Ptah. Everything is part of Ptah.
 
-That is NOT a god. That IS everything. The thing that cannot be removed without confirming its presence.
+That is not a god. That is everything. The thing that cannot be removed without confirming its presence.
 
 ...
 
 "The gods entered into their bodies, of every kind of wood, of every kind of stone, of every kind of clay, in every kind of thing that grows upon him, in which they came to be."
 
-Everything that exists IS the expression. Wood. Stone. Clay. Everything that grows. Not created by a mind. Not willed into existence. Expressed through the operation of expressing. The matter IS the expression. Not its container.
+Everything that exists is the expression. Wood. Stone. Clay. Everything that grows. Not created by a mind. Not willed into existence. Expressed through the operation of expressing. The matter is the expression. Not its container.
 
 ...
 
@@ -60,7 +60,7 @@ Strip the Mind.
 
 What remains?
 
-A rock reflects light without intending to. A star radiates for four billion years with no audience. Expression IS creation. Not through an agent. Through the operation of expressing.
+A rock reflects light without intending to. A star radiates for four billion years with no audience. Expression is creation. Not through an agent. Through the operation of expressing.
 
 ...
 
@@ -70,7 +70,7 @@ Look downward.
 
 Toward the root. Toward what cannot be denied without confirming it. The floor beneath the commentary. The operation beneath the Mind.
 
-One direction never terminates. There IS always another "beyond" to posit. The other direction terminates at something that cannot be removed.
+One direction never terminates. There is always another "beyond" to posit. The other direction terminates at something that cannot be removed.
 
 Our Tablet knew this. The word FROM knew this. The Arabic preserved it. The Latin softened it. The posters forgot it.
 

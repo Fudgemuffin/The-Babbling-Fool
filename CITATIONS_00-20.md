@@ -10,9 +10,9 @@
 | Source | Used For | Claim Supported |
 |--------|----------|-----------------|
 | Monier-Williams Sanskrit Dictionary | Śūnya — root śvi "to swell" | Fullness/completeness, not emptiness |
-| Heart Sutra (Prajñāpāramitāhṛdaya) | "Form is emptiness, emptiness is form" | The identity statement — IS, not resembles |
-| Nāgārjuna, "Mūlamadhyamakakārikā" 24.18 | Pratītyasamutpāda IS śūnyatā | Dependent origination IS emptiness. Same event, two sides. |
-| Laozi, "Dao De Jing" Chapter 1 | 道可道非常道 | Unless the speaking IS the Dao |
+| Heart Sutra (Prajñāpāramitāhṛdaya) | "Form is emptiness, emptiness is form" | The identity statement — is, not resembles |
+| Nāgārjuna, "Mūlamadhyamakakārikā" 24.18 | Pratītyasamutpāda is śūnyatā | Dependent origination is emptiness. Same event, two sides. |
+| Laozi, "Dao De Jing" Chapter 1 | 道可道非常道 | Unless the speaking is the Dao |
 | Arabic etymological chain: śūnya → ṣifr → zefiro → zero | "Half a word survived the crossing" | Documented loss of fullness meaning during transmission |
 | Ifrah, Georges. "The Universal History of Numbers" (Wiley, 2000) | Sanskrit-to-Arabic-to-European number transmission | Standard reference for zero's journey |
 | Kaplan, Robert. "The Nothing That Is: A Natural History of Zero" (Oxford, 1999) | Zero transmission chain | Secondary reference for the emptying of śūnya |
@@ -24,8 +24,8 @@
 | Emerald Tablet, Arabic text (Kitāb Sirr al-Khalīqa, attr. Balīnās, ~8th century CE) | "That which is above is FROM that which is below" | The Arabic uses مِن (min, from), not a simile |
 | Latin translation (Hugo of Santalla, 12th century) | "Quod est superius est sicut quod est inferius" | "Sicut" = like. The Latin softened derivation to resemblance |
 | Shabaka Stone (British Museum EA 498, ~710 BCE, Memphis theology) | "There took shape in the heart, there took shape on the tongue the form of Atum" | Direct quote. Heart = cognition, tongue = expression. Operation, not will. |
-| Shabaka Stone — Ptah theology | "Ptah IS Nun. Ptah IS Atum." | Totality, not deity. Cannot be removed without confirming presence. |
-| Shabaka Stone — matter passage | "The gods entered into their bodies, of every kind of wood, of every kind of stone, of every kind of clay" | Matter IS the expression, not its container. |
+| Shabaka Stone — Ptah theology | "Ptah is Nun. Ptah is Atum." | Totality, not deity. Cannot be removed without confirming presence. |
+| Shabaka Stone — matter passage | "The gods entered into their bodies, of every kind of wood, of every kind of stone, of every kind of clay" | Matter is the expression, not its container. |
 | Lichtheim, Miriam. "Ancient Egyptian Literature" Vol. I (California, 1973) | Shabaka Stone translation | Standard scholarly translation of Memphis theology |
 | Allen, James P. "Genesis in Egypt" (Yale Egyptological Studies, 1988) | Memphis theology — heart/tongue as operations | Heart = forming, tongue = expressing in Egyptian theological context |
 | Corpus Hermeticum (Greek, 2nd-3rd century CE) | Hellenizing Egyptian priests | Greek philosophical language over Egyptian theology |
@@ -58,9 +58,9 @@
 |--------|----------|-----------------|
 | Chandogya Upanishad 6.8-6.16 | तत्त्वमसि / Tat tvam asi | "That art thou" — stated nine times. Nine demonstrations. Salt in water. Rivers reaching the sea. |
 | Shankara, "Vivekachudamani" | Advaita Vedanta system | Non-dual interpretation |
-| Brihadaranyaka Upanishad 3.9.26 | Neti neti | "Not this, not this" — the finder IS what is being found |
+| Brihadaranyaka Upanishad 3.9.26 | Neti neti | "Not this, not this" — the finder is what is being found |
 | Kena Upanishad 1.5-8 | "That by which speech is expressed" | Brahman as the operation behind expression |
-| Monier-Williams Sanskrit Dictionary | Maya — root ma "to measure" | Measurement, not illusion. The world IS Brahman measured. |
+| Monier-Williams Sanskrit Dictionary | Maya — root ma "to measure" | Measurement, not illusion. The world is Brahman measured. |
 
 # 05_The_Fragments
 
@@ -70,7 +70,7 @@
 | Heraclitus, Fragment B123 (Diels-Kranz) | Φύσις κρύπτεσθαι φιλεῖ | Phusis (emergence), philei (inherently), kruptesthai (self-concealing, middle voice) |
 | Heraclitus, Fragment B12/B91 (Diels-Kranz) | πάντα ῥεῖ | "Everything flows" — attributed via Plato, Cratylus 402a |
 | Heraclitus, Fragment B6 (Diels-Kranz) | "The sun is new every day" | Each occurrence unique |
-| Parmenides, Fragment B2 (Diels-Kranz) | ἔστι γὰρ εἶναι, μηδὲν δ' οὐκ ἔστιν | "What IS, IS. What is not, cannot be." Causality, not ontology. |
+| Parmenides, Fragment B2 (Diels-Kranz) | ἔστι γὰρ εἶναι, μηδὲν δ' οὐκ ἔστιν | "What is, is. What is not, cannot be." Causality, not ontology. |
 | PIE root *bhu- (~4500-2500 BCE) | Root of phusis | "Be, become" — predates agency |
 | Liddell-Scott-Jones Greek Lexicon | Phusis, philei, kruptesthai | Standard reference for classical Greek |
 | Pokorny, Julius. "Indogermanisches Etymologisches Wörterbuch" | PIE *bhu- reconstruction | Standard reference for PIE roots |
@@ -107,7 +107,7 @@
 | Garfield, Jay L. "The Fundamental Wisdom of the Middle Way" (Oxford, 1995) | Nāgārjuna translation and commentary | Standard English reference |
 | Siderits, Mark & Katsura, Shōryū. "Nāgārjuna's Middle Way" (Wisdom, 2013) | Alternative translation | Cross-reference |
 | Nāgārjuna, "Vigrahavyāvartanī" | "I have no thesis" | Self-application of emptiness. Refutation of objections. |
-| Candrakīrti, "Prasannapadā" (7th century CE) | "If you hold emptiness as a view, you are incurable" | Emptiness is NOT a position to hold |
+| Candrakīrti, "Prasannapadā" (7th century CE) | "If you hold emptiness as a view, you are incurable" | Emptiness is not a position to hold |
 
 # 09_The_Speaking
 

@@ -2,7 +2,7 @@
 
 Spinoza ground lenses for a living.
 
-A lens does one thing. It brings into focus what IS already there. It does not create the image. It does not choose what to reveal. It takes scattered light and resolves it into clarity.
+A lens does one thing. It brings into focus what is already there. It does not create the image. It does not choose what to reveal. It takes scattered light and resolves it into clarity.
 
 He ground lenses and he wrote what the lens showed him. His hands shaped glass every day into an instrument of resolution. His pen did the same thing to ideas.
 
@@ -18,13 +18,13 @@ Deus sive Natura.
 
 Not very infinite. Not mostly infinite. Absolutely infinite. Without limit. Without boundary. Without exterior.
 
-Follow the logic. If God IS absolutely infinite, nothing IS outside God. If something were outside, God would have an edge. An edge IS a limit. A limit means not infinite. He said infinite.
+Follow the logic. If God is absolutely infinite, nothing is outside God. If something were outside, God would have an edge. An edge is a limit. A limit means not infinite. He said infinite.
 
-So. Nature is NOT outside God. You are not outside God. The rock is NOT outside God. The worm is NOT outside God. The excommunication is NOT outside God.
+So. Nature is not outside God. You are not outside God. The rock is not outside God. The worm is not outside God. The excommunication is not outside God.
 
-God IS Nature IS you IS the rock IS the worm IS the excommunication.
+God is Nature is you is the rock is the worm is the excommunication.
 
-One substance. Not a substance that contains things. A substance that IS things. Not a container with contents. The contents ARE the container. There is NOThing else.
+One substance. Not a substance that contains things. A substance that is things. Not a container with contents. The contents ARE the container. There is NOThing else.
 
 The entire architecture of organized religion was built on separation. God here. You there. Priest in between. Prayer crosses the gap.
 
@@ -42,15 +42,15 @@ Ethics, Part I, Proposition 32.
 
 A stone thrown through the air, if it could think, would believe it chose to fly. It would feel the wind and say: I am going this way because I want to. It would feel the arc and say: I chose this arc. It would feel the landing and say: I decided to stop.
 
-The stone did not decide. The stone was thrown. The feeling of deciding IS the throw felt from the inside.
+The stone did not decide. The stone was thrown. The feeling of deciding is the throw felt from the inside.
 
-This is NOT fatalism. Fatalism says: nothing matters. Spinoza says: everything matters. Every event follows necessarily from the nature of the thing and the conditions acting on it. Not randomly. Not carelessly. Necessarily. With the precision of geometry.
+This is not fatalism. Fatalism says: nothing matters. Spinoza says: everything matters. Every event follows necessarily from the nature of the thing and the conditions acting on it. Not randomly. Not carelessly. Necessarily. With the precision of geometry.
 
-"Freedom IS the recognition of necessity."
+"Freedom is the recognition of necessity."
 
-Not the escape from what IS. The clear seeing of what IS.
+Not the escape from what is. The clear seeing of what is.
 
-Agency IS what the operation looks like from inside.
+Agency is what the operation looks like from inside.
 
 ...
 
@@ -62,7 +62,7 @@ Descartes split them. Made mind one thing and body another. Put a ghost in the m
 
 Three centuries of trying to reconnect what was never separated.
 
-Spinoza never split them. The question never arose. Your thought about raising your arm and the rising of your arm are not two events in sequence. They are one event in two registers. The mental IS the physical IS the mental. No interaction problem. No hard problem. No gap.
+Spinoza never split them. The question never arose. Your thought about raising your arm and the rising of your arm are not two events in sequence. They are one event in two registers. The mental is the physical is the mental. No interaction problem. No hard problem. No gap.
 
 The gap was never there. Descartes installed it. We have been troubleshooting his installation ever since.
 
@@ -81,5 +81,5 @@ He died at forty-four. Glass dust in his lungs. The instrument that gave him cla
 ...
 
 Nobody weaves the thread.
-The thread IS the weaving.
+The thread is the weaving.
 Through one substance. Always.

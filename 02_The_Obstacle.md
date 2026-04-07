@@ -8,9 +8,9 @@ We turned this into a poster. We printed it on coffee mugs. We lost what he was 
 
 ...
 
-A river does not decide to go around rocks. The rocks ARE the river's shape. Remove the rocks and you do not have the same river flowing freely. You have a different river. The obstacle is NOT on the path. The obstacle IS the path. Not metaphor. Hydrology. Physics. The shape of what blocks you IS the shape of the route available to you. Identical shape. One thing.
+A river does not decide to go around rocks. The rocks are the river's shape. Remove the rocks and you do not have the same river flowing freely. You have a different river. The obstacle is not on the path. The obstacle is the path. Not metaphor. Hydrology. Physics. The shape of what blocks you is the shape of the route available to you. Identical shape. One thing.
 
-Our Greek carries this. The impediment to the ergon becomes the ergon. Not: the obstacle can be used. Not: adversity builds character. The standing-in-the-way IS the way itself. No separation between the two.
+Our Greek carries this. The impediment to the ergon becomes the ergon. Not: the obstacle can be used. Not: adversity builds character. The standing-in-the-way is the way itself. No separation between the two.
 
 We imported the sentence into English. We left the structure behind. English gives us "what stands in the way" and "the way" as two nouns. Two things. Something blocking and something blocked. Our Greek has one operation.
 
@@ -24,37 +24,37 @@ Our dichotomy of control. Things within our power. Things not within our power. 
 
 But there are not two categories. There are three.
 
-What IS determined. What cannot be determined. What has not YET been determined.
+What is determined. What cannot be determined. What has not yet been determined.
 
 We collapsed the third into the second. Everything not currently in our control became everything that will never be in our control. We inherited our own collapse. It felt like wisdom. It felt like peace. Amor fati. Love your fate. Beautiful.
 
-But acceptance before filtering IS avoidance.
+But acceptance before filtering is avoidance.
 
-If you love your fate before checking whether the thing IS actually fated, you have stopped looking. You have mistaken premature peace for clarity. The river does not love the rock. The river encounters the rock. The rock's shape becomes the river's shape. No love. No acceptance. No rejection. The encounter itself IS the movement.
+If you love your fate before checking whether the thing is actually fated, you have stopped looking. You have mistaken premature peace for clarity. The river does not love the rock. The river encounters the rock. The rock's shape becomes the river's shape. No love. No acceptance. No rejection. The encounter itself is the movement.
 
-Epictetus's real insight was not the dichotomy. It was the encounter. What IS it. Right now. Not: what should I feel about it. What IS it.
+Epictetus's real insight was not the dichotomy. It was the encounter. What is it. Right now. Not: what should I feel about it. What is it.
 
 ...
 
 Memento mori. Remember you will die.
 
-Not: be afraid. Not: be motivated. Not even: be grateful. Remember. That IS all. Remembering death is NOT a practice. It IS a fact that changes the shape of attention the way a rock changes the shape of water.
+Not: be afraid. Not: be motivated. Not even: be grateful. Remember. That is all. Remembering death is not a practice. It is a fact that changes the shape of attention the way a rock changes the shape of water.
 
-You will die. This IS determined. No column sorting needed.
+You will die. This is determined. No column sorting needed.
 
-What you do before then. Some of this IS determined. Some is NOT. Most has not yet been determined. Our error was aesthetic. We made "not yet determined" sound like "not in your power" because resignation IS more dignified than uncertainty. The Roman court demanded dignity. The slave's quarters demanded survival. Our world shaped our words.
+What you do before then. Some of this is determined. Some is not. Most has not yet been determined. Our error was aesthetic. We made "not yet determined" sound like "not in your power" because resignation is more dignified than uncertainty. The Roman court demanded dignity. The slave's quarters demanded survival. Our world shaped our words.
 
-The shape of what IS IS the shape of what you can do. Not two things. One reading.
+The shape of what is is the shape of what you can do. Not two things. One reading.
 
 ...
 
 Marcus wrote: "The mind adapts and converts to its own purposes the obstacle to our acting. The impediment to action advances action."
 
-He did not write: the obstacle is an opportunity. He did not write: look on the bright side. He wrote: the impediment advances. Present tense. Already happening. The obstacle IS already the action. Not will become. IS.
+He did not write: the obstacle is an opportunity. He did not write: look on the bright side. He wrote: the impediment advances. Present tense. Already happening. The obstacle is already the action. Not will become. Is.
 
-His world was plague and war and betrayal in the court. A rock in a river IS the river's next move. A wall in a maze IS the maze's information. The obstacle is NOT something to overcome or accept or reframe.
+His world was plague and war and betrayal in the court. A rock in a river is the river's next move. A wall in a maze is the maze's information. The obstacle is not something to overcome or accept or reframe.
 
-The obstacle IS the data. The only data. The complete data.
+The obstacle is the data. The only data. The complete data.
 
 ...
 

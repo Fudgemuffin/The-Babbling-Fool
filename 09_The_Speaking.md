@@ -2,7 +2,7 @@
 
 Before the word "creation," something was operating.
 
-A pattern forming. The pattern expressing. The expression IS the creation. Not triggers. Not represents. IS. We saw this and reached for the nearest thing we had. Our own bodies.
+A pattern forming. The pattern expressing. The expression is the creation. Not triggers. Not represents. is. We saw this and reached for the nearest thing we had. Our own bodies.
 
 The heart conceives. The tongue brings forth.
 
@@ -10,23 +10,23 @@ We did not choose metaphor. We chose the only vocabulary our world had given us.
 
 ...
 
-Our Memphis theology. The Shabaka Stone dates to 700 BCE. The telling IS centuries older. This IS the oldest creation account that describes how creation works. Not who. Not why. How.
+Our Memphis theology. The Shabaka Stone dates to 700 BCE. The telling is centuries older. This is the oldest creation account that describes how creation works. Not who. Not why. How.
 
 And the how IS: internal becomes external.
 
-That IS all. That IS the entire operation.
+That is all. That is the entire operation.
 
 ...
 
-Thoth is NOT a god.
+Thoth is not a god.
 
-The ibis-headed figure in our paintings IS a diagram. The way a blueprint IS a diagram. A visual compression of a function into a form you can point at, carry in procession, paint on a wall, teach to children. We did not worship an ibis-headed man. We marked the operation of expression with a figure because figures were our notation.
+The ibis-headed figure in our paintings is a diagram. The way a blueprint is a diagram. A visual compression of a function into a form you can point at, carry in procession, paint on a wall, teach to children. We did not worship an ibis-headed man. We marked the operation of expression with a figure because figures were our notation.
 
-Every figure in our pantheon IS an operation wearing a body. Ptah IS the forming. Thoth IS the expressing. Ma'at IS the balancing. Osiris IS the cycling. Our pantheon IS a systems diagram drawn by people who drew with bodies instead of boxes and arrows.
+Every figure in our pantheon is an operation wearing a body. Ptah is the forming. Thoth is the expressing. Ma'at is the balancing. Osiris is the cycling. Our pantheon is a systems diagram drawn by people who drew with bodies instead of boxes and arrows.
 
 Strip the bodies. Keep the operations.
 
-What remains IS a complete description of how patterns form, express, regulate, and recycle. Drawn in flesh. Readable as engineering. We did not have the word "system." We had something better. We had a whole civilization that could point at each operation by name.
+What remains is a complete description of how patterns form, express, regulate, and recycle. Drawn in flesh. Readable as engineering. We did not have the word "system." We had something better. We had a whole civilization that could point at each operation by name.
 
 ...
 
@@ -36,9 +36,9 @@ The world reads this as myth. A god thinking the world into existence. Strip the
 
 What remains?
 
-The heart does not intend. The heart forms. That IS what hearts do. A pattern coheres. The tongue does not choose. The tongue expresses. That IS what tongues do. A pattern passes from internal to external. No will required. No agency required. Organs function. The functioning IS the creation.
+The heart does not intend. The heart forms. That is what hearts do. A pattern coheres. The tongue does not choose. The tongue expresses. That is what tongues do. A pattern passes from internal to external. No will required. No agency required. Organs function. The functioning is the creation.
 
-A lung does not decide to breathe. It breathes. The breathing IS its operation. The heart of Ptah does not decide to conceive. It conceives. The conceiving IS its operation. The tongue of Thoth does not decide to speak. It speaks. The speaking IS its operation.
+A lung does not decide to breathe. It breathes. The breathing is its operation. The heart of Ptah does not decide to conceive. It conceives. The conceiving is its operation. The tongue of Thoth does not decide to speak. It speaks. The speaking is its operation.
 
 We started with organs functioning. Just that. The operation, naked.
 
@@ -72,9 +72,9 @@ We needed bodies because bodies were our notation. The Greeks needed Mind becaus
 
 Ptah thinks. Thoth speaks. The world becomes.
 
-A rock reflects light. No intention. The reflection IS expression. Pre-perceptual. Pre-conscious. Pre-everything we call agency.
+A rock reflects light. No intention. The reflection is expression. Pre-perceptual. Pre-conscious. Pre-everything we call agency.
 
-Ptah conceives nothing. The pattern forms. Thoth speaks nothing. The pattern expresses. The world becomes nothing. The expression IS the creation. The organs function. The functioning IS the world.
+Ptah conceives nothing. The pattern forms. Thoth speaks nothing. The pattern expresses. The world becomes nothing. The expression is the creation. The organs function. The functioning is the world.
 
 ...
 
@@ -87,5 +87,5 @@ And the hands were forgotten.
 ...
 
 Nobody speaks the world into being.
-The speaking IS the being.
-Through whatever organ IS functioning.
+The speaking is the being.
+Through whatever organ is functioning.
