@@ -1,232 +1,373 @@
-# CITATIONS
-## Source references for all publication pieces.
-## Each entry: source, where used, what it supports.
+# CITATIONS — PIECES 00-20
+## Full bibliographic references for all publication pieces.
 ## The publication pieces themselves contain no citation notation.
+## Citations follow the transmission chain: the texts at each hop ARE the bibliography.
 
 ---
 
 # 00_Half_a_Word
 
+## References
+
+Conze, E. (Trans.). (1958). *Buddhist wisdom books: The Diamond Sutra and the Heart Sutra.* George Allen & Unwin. [Piece uses Conze's rendering: "Form is emptiness, emptiness is form."]
+
+Garfield, J. L. (Trans.). (1995). *The fundamental wisdom of the middle way: Nagarjuna's Mulamadhyamakakarika.* Oxford University Press. [Piece references MMK 24.18: "Conditioned origination is emptiness."]
+
+Ifrah, G. (2000). *The universal history of numbers: From prehistory to the invention of the computer* (D. Bellos, E. F. Harding, S. Wood, & I. Monk, Trans.). John Wiley & Sons.
+
+Kaplan, R. (1999). *The nothing that is: A natural history of zero.* Oxford University Press.
+
+Monier-Williams, M. (1899). *A Sanskrit-English dictionary: Etymologically and philologically arranged with special reference to cognate Indo-European languages.* Clarendon Press. [Śūnya — root śvi, "to swell."]
+
 | Source | Used For | Claim Supported |
 |--------|----------|-----------------|
-| Monier-Williams Sanskrit Dictionary | Śūnya — root śvi "to swell" | Fullness/completeness, not emptiness |
-| Heart Sutra (Prajñāpāramitāhṛdaya) | "Form is emptiness, emptiness is form" | The identity statement — is, not resembles |
-| Nāgārjuna, "Mūlamadhyamakakārikā" 24.18 | Pratītyasamutpāda is śūnyatā | Dependent origination is emptiness. Same event, two sides. |
-| Laozi, "Dao De Jing" Chapter 1 | 道可道非常道 | Unless the speaking is the Dao |
-| Arabic etymological chain: śūnya → ṣifr → zefiro → zero | "Half a word survived the crossing" | Documented loss of fullness meaning during transmission |
-| Ifrah, Georges. "The Universal History of Numbers" (Wiley, 2000) | Sanskrit-to-Arabic-to-European number transmission | Standard reference for zero's journey |
-| Kaplan, Robert. "The Nothing That Is: A Natural History of Zero" (Oxford, 1999) | Zero transmission chain | Secondary reference for the emptying of śūnya |
+| Heart Sutra (Prajnaparamitahrdaya) | "Form is emptiness, emptiness is form" | The identity statement — IS, not resembles |
+| Nagarjuna, Mulamadhyamakakarika 24.18 | Pratityasamutpada IS sunyata | Dependent origination IS emptiness |
+| Laozi, Dao De Jing, Chapter 1 | "The Dao that can be spoken" | Unless the speaking IS the Dao |
+| Arabic etymological chain: sunya → sifr → zefiro → zero | "Half a word survived the crossing" | Documented loss of fullness meaning during transmission |
+
+---
 
 # 01_The_Tablet
 
+## References
+
+Allen, J. P. (1988). *Genesis in Egypt: The philosophy of ancient Egyptian creation accounts* (Yale Egyptological Studies, 2). Yale Egyptological Seminar.
+
+Copenhaver, B. P. (1992). *Hermetica: The Greek Corpus Hermeticum and the Latin Asclepius in a new English translation, with notes and introduction.* Cambridge University Press.
+
+Lichtheim, M. (1973). *Ancient Egyptian literature: A book of readings. Vol. I: The Old and Middle Kingdoms.* University of California Press.
+
 | Source | Used For | Claim Supported |
 |--------|----------|-----------------|
-| Emerald Tablet, Arabic text (Kitāb Sirr al-Khalīqa, attr. Balīnās, ~8th century CE) | "That which is above is FROM that which is below" | The Arabic uses مِن (min, from), not a simile |
-| Latin translation (Hugo of Santalla, 12th century) | "Quod est superius est sicut quod est inferius" | "Sicut" = like. The Latin softened derivation to resemblance |
-| Shabaka Stone (British Museum EA 498, ~710 BCE, Memphis theology) | "There took shape in the heart, there took shape on the tongue the form of Atum" | Direct quote. Heart = cognition, tongue = expression. Operation, not will. |
-| Shabaka Stone — Ptah theology | "Ptah is Nun. Ptah is Atum." | Totality, not deity. Cannot be removed without confirming presence. |
-| Shabaka Stone — matter passage | "The gods entered into their bodies, of every kind of wood, of every kind of stone, of every kind of clay" | Matter is the expression, not its container. |
-| Lichtheim, Miriam. "Ancient Egyptian Literature" Vol. I (California, 1973) | Shabaka Stone translation | Standard scholarly translation of Memphis theology |
-| Allen, James P. "Genesis in Egypt" (Yale Egyptological Studies, 1988) | Memphis theology — heart/tongue as operations | Heart = forming, tongue = expressing in Egyptian theological context |
-| Corpus Hermeticum (Greek, 2nd-3rd century CE) | Hellenizing Egyptian priests | Greek philosophical language over Egyptian theology |
-| Copenhaver, Brian P. "Hermetica" (Cambridge, 1992) | Scholarly context for transmission chain | Standard reference for Hermetic texts |
+| Emerald Tablet, Arabic text (Kitab Sirr al-Khaliqa, attr. Balinas, ~8th century CE) | "That which is above is FROM that which is below" | Arabic uses min (from), not a simile |
+| Latin translation (Hugo of Santalla, 12th century) | "Quod est superius est sicut quod est inferius" | Sicut = like. Latin softened derivation to resemblance |
+| Shabaka Stone (British Museum EA 498, ~710 BCE) | Memphis theology: heart conceives, tongue creates | Operation, not will |
+| Corpus Hermeticum (Greek, 2nd-3rd century CE) | Greek philosophical language over Egyptian theology | Transmission hop: Egyptian → Greek |
+
+---
 
 # 02_The_Obstacle
 
+## References
+
+Haines, C. R. (Trans.). (1916). *Marcus Aurelius* (Loeb Classical Library, No. 58). Harvard University Press. [Piece references Meditations V.20: "The impediment to action advances action." Greek: to empodon te praxei proagei ten praxin.]
+
+Oldfather, W. A. (Trans.). (1925-1928). *Epictetus: The discourses as reported by Arrian, the Manual, and fragments* (Loeb Classical Library, Nos. 131 & 218, 2 vols.). Harvard University Press. [Piece references Enchiridion 5 and Discourses I.1.]
+
 | Source | Used For | Claim Supported |
 |--------|----------|-----------------|
-| Marcus Aurelius, "Meditations" V.20 | "The impediment to action advances action" | Original Greek: τὸ ἐμποδὼν τῇ πράξει προάγει τὴν πρᾶξιν. Ergon and impediment as one operation. |
-| Epictetus, "Enchiridion" 5 | "It is not things that disturb us" | Distinction between events and judgments |
-| Epictetus, "Discourses" I.1 | "Some things are up to us" | The dichotomy of control — three categories, not two |
-| Marcus Aurelius, "Meditations" II.14 | Memento mori | Compression, not fear |
+| Marcus Aurelius, Meditations V.20 | "The impediment to action advances action" | Ergon and impediment as one operation |
+| Epictetus, Enchiridion 5 | "It is not things that disturb us" | Distinction between events and judgments |
+| Epictetus, Discourses I.1 | "Some things are up to us" | Three categories, not two |
+| Marcus Aurelius, Meditations II.14 | Memento mori | Compression, not fear |
+
+---
 
 # 03_The_Way
 
+## References
+
+Lau, D. C. (Trans.). (1963). *Lao Tzu: Tao Te Ching.* Penguin Books.
+
+Xu Shen. (100 CE). *Shuowen Jiezi* [Explaining simple and analyzing compound characters]. (Annotated edition: Duan Yucai, *Shuowen Jiezi Zhu*, 1815. Modern reprint: Zhonghua Shuju, Beijing.)
+
 | Source | Used For | Claim Supported |
 |--------|----------|-----------------|
-| Laozi, "Dao De Jing" Chapter 1 | 道可道非常道 | The Dao that can be spoken. The character 道 carries both path and speaking. |
-| Laozi, "Dao De Jing" Chapter 42 | "The Dao produces one" | Emergence sequence |
-| Laozi, "Dao De Jing" Chapter 40 | "Return is the movement of the Dao" | Inward movement. Breathing. |
-| Laozi, "Dao De Jing" Chapter 37 | Wu wei / 無為 | No actor. No "non." The operation unobstructed. |
-| Laozi, "Dao De Jing" Chapter 28 | "Know the white, keep to the black" | Not opposites. One cloth, two sides. |
-| Shuowen Jiezi (Xu Shen, 100 CE) | Character analysis of 道 | Standard reference for Chinese character etymology |
-| D.C. Lau translation (Penguin, 1963) | Standard English reference | Cross-checked against original characters |
+| Laozi, Dao De Jing, Chapter 1 | The character 道 carries both path and speaking | The operation that moves is the operation that expresses |
+| Laozi, Dao De Jing, Chapter 42 | "The Dao produces one" | Emergence sequence |
+| Laozi, Dao De Jing, Chapter 40 | "Return is the movement of the Dao" | Inward movement |
+| Laozi, Dao De Jing, Chapter 37 | Wu wei / 無為 | The operation unobstructed |
+| Laozi, Dao De Jing, Chapter 28 | "Know the white, keep to the black" | One cloth, two sides |
+
+---
 
 # 04_That_Art_Thou
 
+## References
+
+Monier-Williams, M. (1899). *A Sanskrit-English dictionary.* Clarendon Press. [Maya — root ma, "to measure."]
+
+Olivelle, P. (Trans.). (1996). *Upanisads.* Oxford University Press. [Standard scholarly translation of Chandogya, Brihadaranyaka, and Kena Upanishads.]
+
 | Source | Used For | Claim Supported |
 |--------|----------|-----------------|
-| Chandogya Upanishad 6.8-6.16 | तत्त्वमसि / Tat tvam asi | "That art thou" — stated nine times. Nine demonstrations. Salt in water. Rivers reaching the sea. |
-| Shankara, "Vivekachudamani" | Advaita Vedanta system | Non-dual interpretation |
-| Brihadaranyaka Upanishad 3.9.26 | Neti neti | "Not this, not this" — the finder is what is being found |
+| Chandogya Upanishad 6.8-6.16 | Tat tvam asi — stated nine times | Nine demonstrations. Salt in water. Rivers reaching the sea. |
+| Shankara, Vivekachudamani (~8th century CE) | Advaita Vedanta | Non-dual interpretation. The observer is the observed. |
+| Brihadaranyaka Upanishad 3.9.26 | Neti neti | The finder IS what is being found |
 | Kena Upanishad 1.5-8 | "That by which speech is expressed" | Brahman as the operation behind expression |
-| Monier-Williams Sanskrit Dictionary | Maya — root ma "to measure" | Measurement, not illusion. The world is Brahman measured. |
+
+---
 
 # 05_The_Fragments
 
+## References
+
+Diels, H., & Kranz, W. (Eds.). (1951-1952). *Die Fragmente der Vorsokratiker* (6th ed., 3 vols.). Weidmann. [Standard critical numbering: Heraclitus B6, B12, B60, B91, B123; Parmenides B2.]
+
+Kahn, C. H. (1979). *The art and thought of Heraclitus: An edition of the fragments with translation and commentary.* Cambridge University Press.
+
+Liddell, H. G., Scott, R., & Jones, H. S. (1940). *A Greek-English lexicon* (9th ed., with revised supplement, 1996). Clarendon Press.
+
+Pokorny, J. (1959). *Indogermanisches etymologisches Worterbuch* (2 vols.). Francke Verlag. [PIE root *bhu- "be, become" — root of phusis.]
+
 | Source | Used For | Claim Supported |
 |--------|----------|-----------------|
-| Heraclitus, Fragment B60 (Diels-Kranz) | ὁδός ἄνω κάτω μία καὶ ὡυτή | "The upward-downward path is one and the same" |
-| Heraclitus, Fragment B123 (Diels-Kranz) | Φύσις κρύπτεσθαι φιλεῖ | Phusis (emergence), philei (inherently), kruptesthai (self-concealing, middle voice) |
-| Heraclitus, Fragment B12/B91 (Diels-Kranz) | πάντα ῥεῖ | "Everything flows" — attributed via Plato, Cratylus 402a |
-| Heraclitus, Fragment B6 (Diels-Kranz) | "The sun is new every day" | Each occurrence unique |
-| Parmenides, Fragment B2 (Diels-Kranz) | ἔστι γὰρ εἶναι, μηδὲν δ' οὐκ ἔστιν | "What is, is. What is not, cannot be." Causality, not ontology. |
-| PIE root *bhu- (~4500-2500 BCE) | Root of phusis | "Be, become" — predates agency |
-| Liddell-Scott-Jones Greek Lexicon | Phusis, philei, kruptesthai | Standard reference for classical Greek |
-| Pokorny, Julius. "Indogermanisches Etymologisches Wörterbuch" | PIE *bhu- reconstruction | Standard reference for PIE roots |
-| Kahn, Charles H. "The Art and Thought of Heraclitus" (Cambridge, 1979) | Fragment interpretation and Greek text | Standard scholarly reference |
-| Note | Ephesus as trading port, Elea as stone colony | Geographic context for why Heraclitus saw flow and Parmenides saw necessity |
+| Heraclitus, Fragment B60 | "The upward-downward path is one and the same" | One path, not two |
+| Heraclitus, Fragment B123 | Phusis kruptesthai philei | Emergence inherently self-concealing (middle voice) |
+| Parmenides, Fragment B2 | "What IS, IS. What is not, cannot be." | Causality, not ontology |
+| Note | Ephesus as trading port, Elea as stone colony | Geography shaped which face of the operation each saw |
+
+---
 
 # 06_The_Isthmus
+
+## References
+
+Austin, R. W. J. (Trans.). (1980). *Ibn al-Arabi: The bezels of wisdom.* Paulist Press.
+
+Chittick, W. C. (1989). *The Sufi path of knowledge: Ibn al-Arabi's metaphysics of imagination.* State University of New York Press.
+
+Lane, E. W. (1863-1893). *An Arabic-English lexicon* (8 vols.). Williams and Norgate.
 
 | Source | Used For | Claim Supported |
 |--------|----------|-----------------|
 | Quran 55:19-20 (Surah ar-Rahman) | "He let forth the two seas" | The barzakh between two seas |
-| Ibn Arabi, "Fusūs al-Hikam" | Wahdat al-wujud | Unity of Being |
-| Ibn Arabi, "al-Futūḥāt al-Makkiyya" | 37 volumes | Scope of work reference |
-| Lane's Arabic-English Lexicon | K-T-B trilateral root | Compositional root structure |
-| Lane's Arabic-English Lexicon | S-L-M trilateral root | Islam, Salam, Muslim, Taslim — wholeness, completion, submission from one root |
-| Chittick, William C. "The Sufi Path of Knowledge" (SUNY, 1989) | Ibn Arabi scholarship | Standard Western reference |
+| Ibn Arabi, Fusus al-Hikam (~1229) | Wahdat al-wujud | Unity of Being |
+| Ibn Arabi, al-Futuhat al-Makkiyya (~1203-1240) | 37 volumes | Scope reference |
+| Lane's Arabic-English Lexicon | K-T-B and S-L-M trilateral roots | Compositional root structure |
+
+---
 
 # 07_The_Bit
 
-| Source | Used For | Claim Supported |
-|--------|----------|-----------------|
-| Landauer, R. "Irreversibility and Heat Generation in the Computing Process" (IBM Journal, 1961) | kT ln(2) per bit erasure | Physical floor of information processing |
-| Shannon, C.E. "A Mathematical Theory of Communication" (Bell System Technical Journal, 1948) | Information as uncertainty reduction | Foundational definition |
-| Kolmogorov, A.N. "Three Approaches to the Quantitative Definition of Information" (1965) | Shortest description = identity | Kolmogorov complexity |
-| Bennett, C.H. "The Thermodynamics of Computation — a Review" (Int. J. Theoretical Physics, 1982) | Reversible computation costs nothing | Complement to Landauer |
+## References
+
+Bennett, C. H. (1982). The thermodynamics of computation — A review. *International Journal of Theoretical Physics, 21*(12), 905-940.
+
+Kolmogorov, A. N. (1965). Three approaches to the quantitative definition of information. *Problems of Information Transmission, 1*(1), 1-7.
+
+Landauer, R. (1961). Irreversibility and heat generation in the computing process. *IBM Journal of Research and Development, 5*(3), 183-191.
+
+Shannon, C. E. (1948). A mathematical theory of communication. *Bell System Technical Journal, 27*(3), 379-423.
+
+---
 
 # 08_The_Emptiness_of_Emptiness
 
+## References
+
+Garfield, J. L. (Trans.). (1995). *The fundamental wisdom of the middle way: Nagarjuna's Mulamadhyamakakarika.* Oxford University Press.
+
+Monier-Williams, M. (1899). *A Sanskrit-English dictionary.* Clarendon Press.
+
+Siderits, M., & Katsura, S. (Trans.). (2013). *Nagarjuna's Middle Way: Mulamadhyamakakarika.* Wisdom Publications.
+
+Sprung, M. (Trans.). (1979). *Lucid exposition of the middle way: The essential chapters from the Prasannapada of Candrakirti.* Routledge & Kegan Paul.
+
+Westerhoff, J. (Trans.). (2010). *The dispeller of disputes: Nagarjuna's Vigrahavyavartani.* Oxford University Press.
+
 | Source | Used For | Claim Supported |
 |--------|----------|-----------------|
-| Nāgārjuna, "Mūlamadhyamakakārikā" (2nd century CE) | Emptiness of emptiness, reductio method | Central text of Madhyamaka |
-| Heart Sutra (Prajñāpāramitāhṛdaya) | "Form is emptiness, emptiness is form" | Mahāyāna formulation |
-| Monier-Williams Sanskrit Dictionary | Śūnya — root śvi "to swell" | Fullness, not emptiness |
-| Garfield, Jay L. "The Fundamental Wisdom of the Middle Way" (Oxford, 1995) | Nāgārjuna translation and commentary | Standard English reference |
-| Siderits, Mark & Katsura, Shōryū. "Nāgārjuna's Middle Way" (Wisdom, 2013) | Alternative translation | Cross-reference |
-| Nāgārjuna, "Vigrahavyāvartanī" | "I have no thesis" | Self-application of emptiness. Refutation of objections. |
-| Candrakīrti, "Prasannapadā" (7th century CE) | "If you hold emptiness as a view, you are incurable" | Emptiness is not a position to hold |
+| Nagarjuna, Mulamadhyamakakarika (2nd century CE) | Emptiness of emptiness, reductio method | Central text of Madhyamaka |
+| Heart Sutra | "Form is emptiness, emptiness is form" | Mahayana formulation |
+| Nagarjuna, Vigrahavyavartani | "I have no thesis" | Self-application of emptiness |
+| Candrakirti, Prasannapada (7th century CE) | "If you hold emptiness as a view, you are incurable" | Emptiness is not a position to hold |
+
+---
 
 # 09_The_Speaking
 
+## References
+
+Allen, J. P. (1988). *Genesis in Egypt.* Yale Egyptological Seminar.
+
+Assmann, J. (2001). *The search for God in ancient Egypt* (D. Lorton, Trans.). Cornell University Press.
+
+Lichtheim, M. (1973). *Ancient Egyptian literature,* Vol. I. University of California Press.
+
 | Source | Used For | Claim Supported |
 |--------|----------|-----------------|
-| Shabaka Stone (British Museum EA 498, ~710 BCE) | Memphis theology — Ptah/Thoth creation | Heart conceives, tongue creates. The oldest creation account describing the mechanism. |
-| Gospel of John 1:1 | "In the beginning was the Word" | Greek Logos as translation of earlier operation. Three hops: Egyptian organs → Greek Mind → Christian Person. |
-| Allen, James P. "Genesis in Egypt" (Yale Egyptological Studies, 1988) | Memphis theology scholarship | Standard reference for Egyptian creation theology |
-| Assmann, Jan. "The Search for God in Ancient Egypt" (Cornell, 2001) | Egyptian theological context | Scholarly framing |
-| Lichtheim, Miriam. "Ancient Egyptian Literature" Vol. I (California, 1973) | Shabaka Stone translation | Standard scholarly translation |
+| Shabaka Stone (British Museum EA 498, ~710 BCE) | Heart conceives, tongue creates | The oldest creation account describing the mechanism |
+| Gospel of John 1:1 | "In the beginning was the Word" | Three hops: Egyptian organs → Greek Mind → Christian Person |
+
+---
 
 # 10_The_Map
 
-| Source | Used For | Claim Supported |
-|--------|----------|-----------------|
-| Korzybski, Alfred. "Science and Sanity" (1933) | "The map is not the territory" | Original formulation (1931 paper, published 1933) |
-| Bateson, Gregory. "Steps to an Ecology of Mind" (1972) | "All we ever have are maps" | Extension of Korzybski |
-| Von Bertalanffy, Ludwig. "General System Theory" (1968) | "A system is elements in interrelation" | Systems theory foundation |
-| Ashby, W. Ross. "An Introduction to Cybernetics" (1956) | Requisite variety | Regulatory capacity theorem. Recursive self-reference. |
-| Wiener, Norbert. "Cybernetics" (1948) | Feedback loops | Foundational cybernetics |
-| Beer, Stafford. "Brain of the Firm" (1972) | Viable System Model | Organizational cybernetics |
+## References
+
+Ashby, W. R. (1956). *An introduction to cybernetics.* Chapman & Hall.
+
+Bateson, G. (1972). *Steps to an ecology of mind.* Chandler Publishing Company.
+
+Beer, S. (1972). *Brain of the firm: The managerial cybernetics of organization.* Allen Lane / The Penguin Press.
+
+Korzybski, A. (1933). *Science and sanity: An introduction to non-Aristotelian systems and general semantics.* International Non-Aristotelian Library Publishing Company.
+
+Von Bertalanffy, L. (1968). *General system theory: Foundations, development, applications.* George Braziller.
+
+Wiener, N. (1948). *Cybernetics: Or control and communication in the animal and the machine.* MIT Press / John Wiley & Sons.
+
+---
 
 # 11_The_Forge
 
+## References
+
+Newton, I. (n.d.). *Alchemical manuscripts.* Keynes Collection, King's College, Cambridge. Digitized: The Chymistry of Isaac Newton, Indiana University; The Newton Project, University of Oxford.
+
+Principe, L. M. (2013). *The secrets of alchemy.* University of Chicago Press.
+
+Watkins, C. (Ed.). (2011). *The American Heritage dictionary of Indo-European roots* (3rd ed.). Houghton Mifflin Harcourt. [PIE root *gheu- "to pour, to flow."]
+
 | Source | Used For | Claim Supported |
 |--------|----------|-----------------|
-| Newton's alchemical manuscripts (Cambridge University Library, digitized) | Newton's alchemical practice | More words on alchemy than published science |
 | Fe-56 binding energy curve | Iron as nuclear balance point | Highest binding energy per nucleon — physics standard |
-| Principe, Lawrence M. "The Secrets of Alchemy" (Chicago, 2013) | Alchemy scholarship | Standard modern reference |
 | Nigredo/Albedo/Citrinitas/Rubedo stages | Alchemical stages as states of matter under heat | Charcoal blackens, calcium whitens, sulfur yellows, iron reddens |
-| Newton letter to Robert Hooke, 1675 | "Boy playing on the seashore" quote | Standard attribution |
-| PIE root *gheu- (~4500-2500 BCE) | "Fusion" etymology chain | Root predates agency. 30+ domains, one word. |
-| Watkins, Calvert. "The American Heritage Dictionary of Indo-European Roots" (2011) | PIE *gheu- reconstruction | Standard reference |
+| Newton letter to Robert Hooke, 1675 | "If I have seen further..." | Standard attribution |
+
+---
 
 # 12_The_Wave
 
-| Source | Used For | Claim Supported |
-|--------|----------|-----------------|
-| Schrödinger, E. "Quantisierung als Eigenwertproblem" (1926) | Wave function formulation | Foundational QM paper |
-| Born, M. "Zur Quantenmechanik der Stoßvorgänge" (1926) | Probability interpretation of wave function | Born rule |
-| Bohr-Einstein debates (Solvay Conferences, 1927, 1930) | "God does not play dice" / "Stop telling God what to do" | Both wrong. No player. No dice. |
-| Bell, J.S. "On the Einstein Podolsky Rosen Paradox" (1964) | Entanglement correlations | One state, two measurements. Not communication. |
-| Feynman, R. "The Character of Physical Law" (1965) | Double-slit experiment | Standard pedagogical reference |
+## References
+
+Bell, J. S. (1964). On the Einstein Podolsky Rosen paradox. *Physics Physique Fizika, 1*(3), 195-200.
+
+Bohr, N. (1949). Discussion with Einstein on epistemological problems in atomic physics. In P. A. Schilpp (Ed.), *Albert Einstein: Philosopher-scientist* (pp. 201-241). Library of Living Philosophers / Open Court.
+
+Born, M. (1926). Zur Quantenmechanik der Stossvorgange. *Zeitschrift fur Physik, 37*(12), 863-867.
+
+Feynman, R. P. (1965). *The character of physical law.* MIT Press.
+
+Schrodinger, E. (1926). Quantisierung als Eigenwertproblem. *Annalen der Physik, 384*(4), 361-376.
+
+---
 
 # 13_The_Seed
 
-| Source | Used For | Claim Supported |
-|--------|----------|-----------------|
-| Darwin, C. "On the Origin of Species" (1859) | Natural selection (not "survival of the fittest") | Darwin's own terminology |
-| Spencer, H. "Principles of Biology" (1864) | "Survival of the fittest" coinage | Spencer coined, not Darwin |
-| Salvini-Plawen & Mayr (1977) | Eyes evolved independently 40+ times | Standard convergent evolution reference |
-| Dawkins, R. "The Blind Watchmaker" (1986) | Convergent evolution examples | Accessible secondary source |
+## References
+
+Darwin, C. (1859). *On the origin of species by means of natural selection.* John Murray.
+
+Dawkins, R. (1986). *The blind watchmaker.* W. W. Norton & Company.
+
+Salvini-Plawen, L. v., & Mayr, E. (1977). On the evolution of photoreceptors and eyes. *Evolutionary Biology, 10*, 207-263.
+
+Spencer, H. (1864). *The principles of biology* (Vol. 1). Williams and Norgate. ["Survival of the fittest" — Spencer coined, not Darwin.]
+
+---
 
 # 14_The_Scale
 
-| Source | Used For | Claim Supported |
-|--------|----------|-----------------|
-| Boltzmann, L. (1877) | S = k ln W | Entropy as multiplicity of microstates. Counting, not doom. |
-| Clausius, R. (1865) | Second law formulation | Entropy of isolated system tends to increase |
-| Planck satellite data (ESA, 2018) | CMB temperature 2.725 K | Cosmic background cooling measurement |
-| Penrose, R. "The Road to Reality" (2004) | Entropy and cosmology | Scholarly reference for cosmic entropy |
+## References
+
+Boltzmann, L. (1877). Uber die Beziehung zwischen dem zweiten Hauptsatze der mechanischen Warmetheorie und der Wahrscheinlichkeitsrechnung. *Sitzungsberichte der Kaiserlichen Akademie der Wissenschaften, 76*, 373-435.
+
+Clausius, R. (1865). Ueber verschiedene fur die Anwendung bequeme Formen der Hauptgleichungen der mechanischen Warmetheorie. *Annalen der Physik und Chemie, 125*(7), 353-400.
+
+Penrose, R. (2004). *The road to reality: A complete guide to the laws of the universe.* Jonathan Cape.
+
+Planck Collaboration. (2020). Planck 2018 results. VI. Cosmological parameters. *Astronomy & Astrophysics, 641*, A6.
+
+---
 
 # 15_The_Loom
 
-| Source | Used For | Claim Supported |
-|--------|----------|-----------------|
-| Gödel, K. "Über formal unentscheidbare Sätze" (1931) | Incompleteness theorems | Original paper |
-| Turing, A. "On Computable Numbers" (1936) | Halting problem | Undecidability of halting. Same wall, different door. |
-| Nagel & Newman. "Gödel's Proof" (1958) | Accessible presentation | Standard popular reference |
-| Hofstadter, D. "Gödel, Escher, Bach" (1979) | Self-reference and strange loops | Extended cultural reference |
+## References
+
+Godel, K. (1931). Uber formal unentscheidbare Satze der Principia Mathematica und verwandter Systeme I. *Monatshefte fur Mathematik und Physik, 38*(1), 173-198.
+
+Hofstadter, D. R. (1979). *Godel, Escher, Bach: An eternal golden braid.* Basic Books.
+
+Nagel, E., & Newman, J. R. (1958). *Godel's proof.* New York University Press.
+
+Turing, A. M. (1936). On computable numbers, with an application to the Entscheidungsproblem. *Proceedings of the London Mathematical Society, s2-42*(1), 230-265.
+
+---
 
 # 16_The_Garden
 
-| Source | Used For | Claim Supported |
-|--------|----------|-----------------|
-| Mumonkan (Wumenguan, 1228) | Koan collection | Rinzai koan tradition |
-| Hakuin Ekaku (1686-1769) | "What is the sound of one hand clapping?" | Original attribution |
-| Dōgen, "Shōbōgenzō" (13th century) | "If you cannot find the truth right where you are" | Soto Zen foundational text |
-| Platform Sutra of Hui Neng (8th century) | Sixth patriarch, illiterate, heard Diamond Sutra | Foundational Chan/Zen text |
-| Diamond Sutra | "Abide nowhere. Let the mind arise." | Section 10 (standard translation) |
-| Zhaozhou Congshen (778-897 CE) | "Wu" / "Mu" — Joshu's Dog (Case 1, Mumonkan) | Core koan of Rinzai practice |
+## References
+
+Dogen. (2010). *Treasury of the true dharma eye: Zen master Dogen's Shobo genzo* (K. Tanahashi, Ed.). Shambhala. [Piece: "Sitting is enlightenment."]
+
+Huineng. (1967). *The Platform Sutra of the Sixth Patriarch* (P. B. Yampolsky, Trans.). Columbia University Press. [Piece references Hui Neng's poem contest with Shenxiu.]
+
+Red Pine. (2001). *The diamond sutra: The perfection of wisdom.* Counterpoint. ["Abide nowhere. Let the mind arise."]
+
+Wumen Huikai. (1228). *Wumenguan* [The gateless barrier]. (R. H. Blyth, Trans., 1966, Hokuseido Press.) [Case 1: Zhaozhou's "Wu."]
+
+Yampolsky, P. B. (Trans.). (1971). *The Zen master Hakuin: Selected writings.* Columbia University Press. [Piece references "the sound of one hand clapping."]
+
+---
 
 # 17_The_Thread
 
-| Source | Used For | Claim Supported |
-|--------|----------|-----------------|
-| Spinoza, B. "Ethics" (posthumous, 1677) | Deus sive Natura, Part I Prop. 32 (no free will), substance monism | Primary source |
-| Nadler, Steven. "Spinoza: A Life" (Cambridge, 1999) | Excommunication, biographical details | Standard biography |
-| Cherem document (Amsterdam, 1656) | Excommunication record | Historical document |
-| Descartes, R. "Meditations" (1641) | Mind-body dualism for contrast | The split Spinoza never made |
+## References
+
+Descartes, R. (1641). *Meditationes de prima philosophia.* Michael Soly. (Modern edition: J. Cottingham, Trans., 1996, Cambridge University Press.)
+
+Nadler, S. (1999). *Spinoza: A life.* Cambridge University Press.
+
+Spinoza, B. (1677). *Ethica, ordine geometrico demonstrata.* In *Opera posthuma.* Jan Rieuwertsz. (Modern edition: E. Curley, Trans., 1996, Penguin Classics.)
+
+Talmud Torah Congregation of Amsterdam. (1656, July 27). *Cherem against Baruch de Spinoza.* Municipal Archives, Amsterdam. (Reproduced in Nadler, 1999, pp. 120-125.)
+
+---
 
 # 18_The_Fire
 
+## References
+
+Boyce, M. (1979). *Zoroastrians: Their religious beliefs and practices.* Routledge & Kegan Paul.
+
+Insler, S. (Trans.). (1975). *The Gathas of Zarathustra* (Acta Iranica 8, Textes et Memoires, vol. 1). E. J. Brill. [Piece references Yasna 28-34, 43-51, 53 — Zarathustra's own words.]
+
+Pokorny, J. (1959). *Indogermanisches etymologisches Worterbuch.* Francke Verlag. [Individual roots *men- "to think" and *dheh₁- "to place/set."]
+
+Skjaervo, P. O. (2011). *The spirit of Zoroastrianism.* Yale University Press. [Avestan linguistics, Mazda etymology. Also: Skjaervo, P. O. (2003). *An introduction to Old Avestan* (course materials). Harvard University.]
+
+Watkins, C. (Ed.). (2011). *The American Heritage dictionary of Indo-European roots* (3rd ed.). Houghton Mifflin Harcourt. [PIE *mn̥s-dheh₁- — "to place the mind." Cognate with Sanskrit medha.]
+
 | Source | Used For | Claim Supported |
 |--------|----------|-----------------|
-| Gathas (Yasna 28-34, 43-51, 53) | Zarathustra's own words | Oldest layer of Avestan scripture |
-| Boyce, Mary. "Zoroastrians: Their Religious Beliefs and Practices" (Routledge, 1979) | Asha/Druj, fire symbolism | Standard scholarly reference |
-| PIE *mn̥s-dheh₁- | Root of Mazda | "To place the mind." Verified: Skjærvø, Boyce, Watkins. |
 | Avestan asura / Vedic asura | Pre-split shared term | Power/structural capacity before religious divergence |
-| Skjærvø, P.O. "Introduction to Zoroastrianism" (Harvard, 2006) | Avestan linguistics, Mazda etymology | Scholarly reference |
+
+---
 
 # 19_The_Name
 
+## References
+
+Matt, D. C. (1995). *The essential Kabbalah: The heart of Jewish mysticism.* HarperSanFrancisco.
+
+Matt, D. C. (Trans.). (2004-2017). *The Zohar: Pritzker edition* (Vols. 1-12). Stanford University Press. [Standard scholarly translation of the Zohar, attributed to Moses de Leon, ~1280-1286.]
+
+Scholem, G. (1941). *Major trends in Jewish mysticism.* Schocken Books. [Chapter 7: Isaac Luria and his school. Luria (1534-1572) left no writings; teachings transmitted by Chaim Vital in *Etz Chaim* and *Sha'ar HaHakdamot*. Scholem is the standard academic source for Lurianic concepts including tzimtzum.]
+
 | Source | Used For | Claim Supported |
 |--------|----------|-----------------|
-| Sefer Yetzirah (Book of Formation, 3rd-6th century CE) | Sefirot as structural positions | Early Kabbalistic text |
-| Zohar (13th century, Moses de León) | Ein Sof, tzimtzum, light of infinity | Central Kabbalistic text |
-| Luria, Isaac (Ari, 16th century) | Tzimtzum as contraction | Lurianic Kabbalah. The infinite withdraws to make space. |
-| Scholem, Gershom. "Major Trends in Jewish Mysticism" (1941) | Kabbalistic scholarship | Standard academic reference |
-| Matt, Daniel C. "The Essential Kabbalah" (1996) | Accessible translation and commentary | Secondary reference |
+| Sefer Yetzirah (3rd-6th century CE) | Sefirot as structural positions | Ten nodes, twenty-two paths |
+| Zohar (13th century) | Ein Sof, tzimtzum | The infinite withdraws to make space for the finite |
+
+---
 
 # 20_The_Drum
 
+## References
+
+Chatwin, B. (1987). *The songlines.* Jonathan Cape. [Note: criticized by some Aboriginal scholars for inaccuracies. Used for Western audience accessibility, not as primary ethnographic source.]
+
+Clarkson, C., Jacobs, Z., Marwick, B., et al. (2017). Human occupation of northern Australia by 65,000 years ago. *Nature, 547*(7663), 306-310.
+
+Rose, D. B. (1996). *Nourishing terrains: Australian Aboriginal views of landscape and wilderness.* Australian Heritage Commission.
+
+Strehlow, T. G. H. (1971). *Songs of Central Australia.* Angus and Robertson.
+
 | Source | Used For | Claim Supported |
 |--------|----------|-----------------|
-| Chatwin, Bruce. "The Songlines" (1987) | Songline concept for Western audience | Popular introduction (note: criticized by some Aboriginal scholars for inaccuracies) |
-| Clarkson et al. "Human occupation of northern Australia by 65,000 years ago" (Nature, 2017) | 65,000 year dating | Archaeological evidence |
-| Strehlow, T.G.H. "Songs of Central Australia" (1971) | Songline structure and function | Detailed ethnographic record |
-| Rose, Deborah Bird. "Nourishing Terrains" (1996) | "Country" as knowledge, law, and land unified | Standard scholarly reference |
 | Note | This piece explicitly does not explain the Dreaming | Aboriginal knowledge protocols respected — piece points at the door, does not enter |
 
 ---
@@ -239,7 +380,13 @@
 4. Dates for PIE roots are approximate ranges per scholarly consensus.
 5. Biblical references are to standard chapter:verse notation.
 6. Quranic references are to standard surah:ayah notation.
-7. All claims tagged [CONFIRMED] in the session logs have been verified against these sources or their equivalent.
-8. The Fire: PIE *mn̥s-dheh₁- as root of Mazda verified via Skjærvø (2006), Boyce (1979), and Watkins (2011).
+7. Where a piece quotes a specific translation, the translator is identified by phrasing match.
+8. Ancient primary texts (Upanishads, Gathas, Heart Sutra, etc.) are cited as primary sources with standard scholarly translations identified.
+9. Luria (Piece 19) is cited through Vital's transmission and Scholem's academic treatment, as Luria left no writings.
+10. The citations follow the transmission chain: the texts at each hop ARE the bibliography.
 
 ---
+
+Existence(=0~1)
+
+/~\
