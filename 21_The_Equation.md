@@ -12,6 +12,8 @@ Conservation. Energy and matter. Nothing created. Nothing destroyed. Nothing los
 
 For bound physical systems, Clausius gave us the instrument. 1870. The virial theorem. For a system in equilibrium under an inverse-distance potential: 2K + U = 0.
 
+At equilibrium, the flow IS the state. The kinetic energy at any instant equals the energy moving through the system. The potential energy at any instant equals the energy bound. K and |U| measure what Ei:Eo and Mi:Mo describe.
+
 Normalize it.
 
 Er = K / (K + |U|).
